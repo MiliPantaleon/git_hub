@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h2{ 
     font-size: 16px;
     background-color: yellow;
@@ -13,4 +14,21 @@ div{
 p { 
     font-size: 10px;
     color: white;
+=======
+h2{ 
+    font-size: 16px;
+    background-color: yellow;
+    color: black;
+}
+
+div{ 
+    background-color: red;
+    height: 100px;
+    width: auto;
+}
+
+p { 
+    font-size: 10px;
+    color: white;
+>>>>>>> f427e8e052efa63ab9df13fb83dda3b49385c5cd
 }
